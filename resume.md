@@ -1,73 +1,118 @@
-# Nathaniel Welch
+# Rohit Gupta
 
- * <nat@natwelch.com>
- * <http://natwelch.com>
- * 707-799-8675
+  * <rohit.kgec@gmail.com>
+  * (+91) 8496035658 / 95356766165
+  * <http://rohit.io>
+  * <https://github.com/rohit01>
+  * <http://www.linkedin.com/in/rohit01>
 
-## Background
+## Objective:
 
-I am a software developer with an interest in communication and design. I enjoy experimenting with new things to expand my knowledge and I believe that creating ways for people to share knowledge is one of the greatest goals for mankind. 
+To utilize my potential for the growth of the organization in return for job satisfaction.
 
-I strive to be a quick learner and both a competent leader and capable worker. I am an Eagle Scout and was an active officer of the Cal Poly Linux Users Group for three years. I was awarded Cal Poly's Residence Hall Council member of the year for both 2006 and 2007. In my free time I enjoy contributing to open source projects, hiking, reading and listening to music.
+## Experience Summary:
 
-## Education
+ 1. **Company: Plivo - <https://www.plivo.com> (1 year, 11 months)**  
+    Plivo is a silicon valley (US) based telephony startup backed by Y-Combinator (YC) and investors like Andressssen Horowitz, Battery ventures and Qualcomm.
 
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
+    **Devops Lead (January 2014 – March 2014):**  
+    Lead the Indian devops team of 8 members. Closely worked with customers, product team, Infrastructure team, founders and sales team. Gave trainings on the engineering and customer support aspects which helped improve quality of support, team bonding and productivity.
 
-## Proficiency
+    **Product Engineer (September 2013 – January 2014):**  
+    Worked on Plivo cloud APIs and core media/telephony technologies. It involved working with most of the technologies used by Plivo, viz.: Python Django framework, Python Flask, FreeSWITCH, SIP, REST APIs, redis, etc.
 
-I have been writing code, running servers and experimenting with new software since 2002. Most recently the majority of code I have written has been in Java, Ruby, Javascript and Bash, but I have experience in C, Python, SML/NJ, C++, SQL and F#.
+    **Lead Infrastructure Engineer (May 2012 – September 2013):**  
+    Kick-started project 'Tank', a solution over AWS to manage Plivo infrastructure. The solution was the first engineering step taken by Plivo to ensure high availability and scalability of cloud and dedicated server infrastructure. The role also involved setting up automated server monitoring and API service monitoring for status board.
 
-## Experience
+ 2. **Company: Tata Consultancy Services (TCS) - <http://www.tcs.com> (10 Months)**  
+    Tata Consultancy Services Limited (TCSL) is a multinational information technology (IT) service, consulting and business solutions company headquartered in India.
 
-### Open Source Developer
+    **Assistant Systems Engineer - Trainee (July 2011 – April 2012):**  
+    Started my career with Initial Learning Program (ILP) Training at TCS. Lead a batch of 41 people as a CR and a group of 3 members as a project group lead. Was awarded 'Star of the Learners Group' and 'Certificate of Appreciation' in TCS Gems for finding a place in LIREL Honor Rolls.
 
-I currently am a contributor to the open source project [fog](http://fog.io).
+## Technical Skills:
 
-### Google.com, San Francisco, CA
+  * Programming Languages: C, Python, Java, Shell Programming (bash)
+  * Operating Systems: OS X (Mac), Red Hat Enterprise Linux, Debian, Fedora, Ubuntu, Puppy Linux, Windows
+  * Linux System Administration: RHEL 5, CentOS 5, Debian 6
+  * Cloud computing: Amazon Web Services (AWS EC2, S3, Route53), Rackspace
+  * Monitoring: Shinken, Nagios NRPE
+  * Telephony: Session Initiation Protocol (SIP)
 
-#### Site Reliability Engineer - April 2012 to Present
+## Projects:
 
-I work as an SRE for Google Compute Engine and Google Cloud Storage.
+  * **Dikhao - Hobby Project (February 2014 to Present):**  
+    Dikhao is an opensource project to cache every EC2, Route53 resource, find relations between them, and provide really fast lookups. It can be installed as a python command line utility (pip install dikhao), deployable in heroku and has a ready to use hubot plugin.  
+    Project Link: <https://github.com/rohit01/dikhao>
 
-#### Software Engineer - August 2011 to September 2012
+  * **PlivoCloud (September 2013 – January 2014):**  
+    PlivoCloud is an internal project of Plivo which powers all Plivo HTTP APIs. Technologies: Python Django Web Framework.  
+    Responsibilities: Fixing customer critical bugs and adding new features.
 
-As a Software Engineer at Google, I worked on Punchd, Google Offers and Google Local.
+  * **PlivoCommercial (September 2013 – January 2014):**  
+    PlivoCommercial is an internal project of Plivo which handles the core telephony using SIP protocol. Technologies: SIP, FreeSWITCH, Python, gevent.  
+    Responsibilities: Fixing customer critical bugs and adding new features.
 
-### Punchd, Mountain View, CA
+  * **Tank (May 2012 – September 2013):**  
+    Project Tank is Plivo's high availability solution over AWS. It also includes automated server monitoring using an opensource nagios like tool - Shinken. The project extensively uses boto, fabric and flask (Python libraries).
 
-#### Software Developer - May 2011 to July 2011
+  * **Plivo Statusboard (May 2012 – September 2013):**  
+    Worked on the backend of the Plivo statusboard. The project involved implementing a 24X7 automated monitoring of Plivo HTTP APIs like calls, Conferece, SMS and account related APIs.
 
-I was [Punchd](http://getpunchd.com)'s backend and operations engineer until we were acquired by Google in July 2011. Once at Google I continued to maintain Punchd's servers, backend API and web frontend. I also helped implement a version of Punchd built on Google's infrastructure, but it was never released.
+  * **Android Sudoku Solver - Hobby Project (January 2012 to April 2012):**  
+    An Android application to solve sudoku puzzles of all difficulty levels (including diabolical). The algorithm used to solve the same was developed personally.  
+    Project Link: <https://github.com/rohit01/AndroidSudokuSolver>
 
-### iFixit.com, San Luis Obispo CA
+  * **TCS BαNCS Service Integrator (October 2011 to April 2012):**  
+    Service Integrator (SI) is a simple and flexible solution that integrates systems with minimal changes for existing applications, supports technologies – old and new and financial messaging standards. The application makes use of Java, ANT, Unix shell scripts, XML, DB (SQL), Hudson framework
 
-#### Software Developer - April 2009 to April 2011
+  * **National Self Employment Program - NSEP (July 2011 to September 2011):**  
+    Developed the NSEP Account Management module of NSEP project. NSEP was a prototype project for the Government of India to encourage entrepreneurship among young graduates.
 
-I wore a variety of hats including -- but not limited to -- writing code to promote high quality content and a stable community, helping keep servers afloat, and working with users to develop content. I wrote code mainly in PHP and Bash, and helped maintain our fleet of servers on Amazon's EC2 Service. 
+  * **StegoSoft (July 2010 to June 2011):**  
+    Developed a steganography application using enhanced least significant bit (LSB) algorithm. It can be used to hide information in an audio medium without any apparent change in the size or quality of the audio file.  
+    Project Link: <https://github.com/rohit01/stegosoft>
 
- * Helped create a site-wide reputation community, which began with [iFixit.com/Answers](http://ifixit.com/Answers)
- * Helped maintain various servers, located on Amazon EC2, and local development machines
- * Developed the first JavaScript widget for iFixit's API.
- * Redefined iFixit's developer work flow
+## Achievements:
 
-<!--
-### Adobe Systems Incorporated, San Francisco CA
+  * Was a speaker at two International Conferences: PyCon Singapore 2013, PyCon India 2012
+  * Received the award for 'Star of the Learners Group' at TCS Trivandrum on 23/09/2011
+  * Received 'ILP Top Performer (13-Oct-2011)' award for outstanding performance in Initial Learning Program (ILP) of TCS at Trivandrum
+  * Received 'Certificate of Appreciation' in TCS Gems for finding a place in LIREL Honor Rolls – a recognition program for excellent professional conduct and work ethics
+  * Won the 1st prize in the 'Konfigure' event (Shell Programming competition) of 'MUKTI 11.2', a National level Technical Symposium on GNU/Linux and Free Software held from February 4 to 6, 2011, at NIT Durgapur
+  * Successfully founded ‘GNU/Linux User Group of KGEC', which provided a platform for discussions amongst Linux users and creating awareness / interest for the same
+  * Won the 2nd prize in the C-Saw Event of KGEC Tech Fest – Techtix ’08 - organized the same event in the following two years
+  * Won the ‘School Topper Award’ at the 8th National Science Olympiad held on 12/02/2006
+  * Received ‘Certificate of Excellence’ for securing 96% marks in Informatics Practices in Class XII
 
-#### Dreamweaver Quality Engineering Intern - Summer 2007 and 2008
+## Initiatives:
 
- * Tested both daily builds and released versions of Dreamweaver against various operating systems - including Mac OSX 10.4, Mac OSX 10.5, Windows Vista, and Windows XP.
- * Helped maintain the Server Matrix, Bug-base, and test a new test case application
- * Helped develop and test the Web Widgets Feature for Dreamweaver CS4, which won the "Dreamweaver Community Feature of the Year" award in 2008.
--->
+  * Started a learning and sharing culture at Plivo by daily technical training sessions as a Devops Lead.
+  * Represented the batch as CR and lead the team for technical project during TCS ILP Training
+  * Key member of the team maintaining the web-server hosting college website (<http://www.kgec.edu.in> and <http://www.kgec.ac.in>) and DNS server for its domain names
+  * Maintained a Linux server which acted as a storage server, print server, proxy server through squid, hosted GNU/Linux offline mirrors through Apache 2.2 and provided PXE installation support to all clients, connected through LAN at RBC Hall (college boys hostel), KGEC
+  * Organized a fedora ‘InstallFest-09’ at KGEC on 21/02/2009
+  * Organized the ‘FreedomFest-09’ at KGEC on 18/04/2009
+  * Became fedora ambassador and set up fedora offline mirror at our college hostels
+  * Conducted a Boot-Camp (FOSS help camp) at KGEC Tech Fest - Techtix '10
+  * Presented a power-point presentation on ‘Renewable Sources of Energy’ in a workshop on ‘Renewable Energy and Prof. D.P. Sarkar Memorial Lectures & Science Exhibition’ held from April 29 to 30, 2008, at KGEC
 
-### BSA Camp Oljato, Lakeshore CA
+## Educational Qualification:
 
-#### Nature Director - Summer 2006
-#### Camp Counselor - Summer 2002, 2003 and 2004
+  * B. Tech in Information Technology (2007-2011)  
+    Institution: Kalyani Government Engineering College  
+    DGPA: 7.85
 
- * In charge of four staff members and responsible for planning the activities behind and maintaining the entire Nature area at camp, with an average of about 200 kids every week for seven weeks per summer.
- * Taught merit badge classes such as wilderness survival, camping, hiking, and others to children ages ten to eighteen.
+  * CBSE - XII (2006-2007)  
+    Institution: Guru Teg Bahadur Public School  
+    Score: 76.6%
 
+  * ICSE - X (2004-2005)  
+    Institution: Assembly of God Church School  
+    Score: 67.5%
+
+## References:
+
+  * **Venky B.:**  
+    He is the co-founder of Plivo and I have worked closely with him during my tenure at Plivo.  
+    Contact: venky@plivo.com  
