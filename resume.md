@@ -2,9 +2,9 @@
 
   * <rohit.kgec@gmail.com>
   * (+91) 8496035658 / 95356766165
-  * <http://rohit.io>
-  * <https://github.com/rohit01>
-  * <http://www.linkedin.com/in/rohit01>
+  * Blog: <http://rohit.io>
+  * Github: <https://github.com/rohit01>
+  * LinkedIn: <http://www.linkedin.com/in/rohit01>
 
 ## Objective:
 
