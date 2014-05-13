@@ -116,3 +116,7 @@ To utilize my potential for the growth of the organization in return for job sat
   * **Venky B.:**  
     He is the co-founder of Plivo and I have worked closely with him during my tenure at Plivo.  
     Contact: venky@plivo.com  
+
+  * **Michael Ricordeau:**  
+    He is the co-founder of Plivo and I have worked closely with him during my tenure at Plivo.  
+    Contact: mike@plivo.com  
