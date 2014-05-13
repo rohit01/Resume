@@ -1,6 +1,6 @@
 # Rohit Gupta
 
-  * <rohit.kgec@gmail.com>
+  * rohit.kgec [AT] gmail.com
   * (+91) 8496035658 / 95356766165
   * Blog: <http://rohit.io>
   * Github: <https://github.com/rohit01>
@@ -115,8 +115,8 @@ To utilize my potential for the growth of the organization in return for job sat
 
   * **Venky B.:**  
     He is the co-founder of Plivo and I have worked closely with him during my tenure at Plivo.  
-    Contact: venky@plivo.com  
+    Contact: venky [AT] plivo.com  
 
   * **Michael Ricordeau:**  
     He is the co-founder of Plivo and I have worked closely with him during my tenure at Plivo.  
-    Contact: mike@plivo.com  
+    Contact: mike [AT] plivo.com  
