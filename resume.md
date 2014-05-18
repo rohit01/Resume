@@ -42,22 +42,20 @@ To utilize my potential for the growth of the organization in return for job sat
 ## Projects:
 
   * **Dikhao - Hobby Project (February 2014 to Present):**  
-    Dikhao is an opensource project to cache every EC2, Route53 resource, find relations between them, and provide really fast lookups. It can be installed as a python command line utility (pip install dikhao), deployable in heroku and has a ready to use hubot plugin.  
+    Dikhao is an opensource project to cache every EC2, Route53 resource, find relations between them, and provide really fast lookups. It can be installed as a python command line utility (pip install dikhao), deployed in heroku and has a ready to use hubot plugin.  
     Project Link: <https://github.com/rohit01/dikhao>
 
   * **PlivoCloud (September 2013 – January 2014):**  
-    PlivoCloud is an internal project of Plivo which powers all Plivo HTTP APIs. Technologies: Python Django Web Framework.  
-    Responsibilities: Fixing customer critical bugs and adding new features.
+    PlivoCloud is an internal project of Plivo which powers all HTTP APIs. It is built using Python Django Web Framework, Flask Microframework and makes extensive use of python libraries.
 
   * **PlivoCommercial (September 2013 – January 2014):**  
-    PlivoCommercial is an internal project of Plivo which handles the core telephony using SIP protocol. Technologies: SIP, FreeSWITCH, Python, gevent.  
-    Responsibilities: Fixing customer critical bugs and adding new features.
+    PlivoCommercial is an internal project of Plivo which handles the core telephony in media servers. Built on top of the opensource softswitch: FreeSWITCH, it provides easy to use internal telephony APIs.
 
   * **Tank (May 2012 – September 2013):**  
-    Project Tank is Plivo's high availability solution over AWS. It also includes automated server monitoring using an opensource nagios like tool - Shinken. The project extensively uses boto, fabric and flask (Python libraries).
+    Project Tank is Plivo's high availability solution over AWS. It also includes automated server monitoring using an opensource nagios like tool - Shinken. The project extensively uses many python libraries and custom NRPE plugins.
 
   * **Plivo Statusboard (May 2012 – September 2013):**  
-    Worked on the backend of the Plivo statusboard. The project involved implementing a 24X7 automated monitoring of Plivo HTTP APIs like calls, Conferece, SMS and account related APIs.
+    Worked on the backend of the Plivo statusboard. The project involved implementing a 24X7 automated monitoring of Plivo HTTP APIs like calls, Conference, SMS and account related APIs.
 
   * **Android Sudoku Solver - Hobby Project (January 2012 to April 2012):**  
     An Android application to solve sudoku puzzles of all difficulty levels (including diabolical). The algorithm used to solve the same was developed personally.  
@@ -87,15 +85,15 @@ To utilize my potential for the growth of the organization in return for job sat
 
 ## Initiatives:
 
-  * Started a learning and sharing culture at Plivo by daily technical training sessions as a Devops Lead.
-  * Represented the batch as CR and lead the team for technical project during TCS ILP Training
+  * Started a learning and sharing culture at Plivo through daily technical training sessions
+  * Represented the batch as CR and lead a team for technical project during TCS ILP Training
   * Key member of the team maintaining the web-server hosting college website (<http://www.kgec.edu.in> and <http://www.kgec.ac.in>) and DNS server for its domain names
   * Maintained a Linux server which acted as a storage server, print server, proxy server through squid, hosted GNU/Linux offline mirrors through Apache 2.2 and provided PXE installation support to all clients, connected through LAN at RBC Hall (college boys hostel), KGEC
   * Organized a fedora ‘InstallFest-09’ at KGEC on 21/02/2009
   * Organized the ‘FreedomFest-09’ at KGEC on 18/04/2009
   * Became fedora ambassador and set up fedora offline mirror at our college hostels
   * Conducted a Boot-Camp (FOSS help camp) at KGEC Tech Fest - Techtix '10
-  * Presented a power-point presentation on ‘Renewable Sources of Energy’ in a workshop on ‘Renewable Energy and Prof. D.P. Sarkar Memorial Lectures & Science Exhibition’ held from April 29 to 30, 2008, at KGEC
+  * Presented a powerpoint presentation on ‘Renewable Sources of Energy’ in a workshop on ‘Renewable Energy and Prof. D.P. Sarkar Memorial Lectures & Science Exhibition’ held from April 29 to 30, 2008, at KGEC
 
 ## Educational Qualification:
 
@@ -115,8 +113,9 @@ To utilize my potential for the growth of the organization in return for job sat
 
   * **Venky B.:**  
     He is the co-founder of Plivo and I have worked closely with him during my tenure at Plivo.  
-    Contact: venky [AT] plivo.com  
+    Contact: venky [AT] plivo.com
 
   * **Michael Ricordeau:**  
     He is the co-founder of Plivo and I have worked closely with him during my tenure at Plivo.  
-    Contact: mike [AT] plivo.com  
+    Contact: mike [AT] plivo.com
+
