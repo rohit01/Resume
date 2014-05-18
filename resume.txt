@@ -1,7 +1,7 @@
 # Rohit Gupta
 
   * rohit.kgec [AT] gmail.com
-  * (+91) 8496035658 / 9535676165
+  * (+91) 9535676165 / 8496035658
   * Blog: <http://rohit.io>
   * Github: <https://github.com/rohit01>
   * LinkedIn: <http://www.linkedin.com/in/rohit01>
