@@ -1,14 +1,9 @@
 # Rohit Gupta
 
   * rohit.kgec [AT] gmail.com
-  * (+91) 9535676165 / 8496035658
   * Blog: <http://rohit.io>
   * Github: <https://github.com/rohit01>
   * LinkedIn: <http://www.linkedin.com/in/rohit01>
-
-## Objective:
-
-To utilize my potential for the growth of the organization in return for job satisfaction.
 
 ## Experience Summary:
 
@@ -99,23 +94,12 @@ To utilize my potential for the growth of the organization in return for job sat
 
   * B. Tech in Information Technology (2007-2011)  
     Institution: Kalyani Government Engineering College  
-    DGPA: 7.85
 
   * CBSE - XII (2006-2007)  
     Institution: Guru Teg Bahadur Public School  
-    Score: 76.6%
 
   * ICSE - X (2004-2005)  
     Institution: Assembly of God Church School  
-    Score: 67.5%
 
-## References:
 
-  * **Venky B.:**  
-    He is the co-founder of Plivo and I have worked closely with him during my tenure at Plivo.  
-    Contact: venky [AT] plivo.com
-
-  * **Michael Ricordeau:**  
-    He is the co-founder of Plivo and I have worked closely with him during my tenure at Plivo.  
-    Contact: mike [AT] plivo.com
-
+*last updated: May 18, 2014*
