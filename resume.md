@@ -7,7 +7,13 @@
 
 ## Experience Summary:
 
- 1. **Company: Plivo - <https://www.plivo.com> (1 year, 11 months)**  
+ 1. **Company: Knowlarity - <http://www.knowlarity.com> (June 2014 – present)**  
+    Knowlarity is India’s largest cloud telephony company backed by investors like Sequoia Capital and Mayfield.
+
+    **Technical Lead - Devops (June 2014 – present):**  
+    Leading a team of developers to write infrastructure as a code. Kick-started many automation projects, replaced legacy monitoring systems, improved processes and helped build the team.
+
+ 2. **Company: Plivo - <https://www.plivo.com> (1 year, 11 months)**  
     Plivo is a silicon valley (US) based telephony startup backed by Y-Combinator (YC) and investors like Andressssen Horowitz, Battery ventures and Qualcomm.
 
     **Devops Lead (January 2014 – March 2014):**  
@@ -19,7 +25,7 @@
     **Lead Infrastructure Engineer (May 2012 – September 2013):**  
     Kick-started project 'Tank', a solution over AWS to manage Plivo infrastructure. The solution was the first engineering step taken by Plivo to ensure high availability and scalability of cloud and dedicated server infrastructure. The role also involved setting up automated server monitoring and API service monitoring for status board.
 
- 2. **Company: Tata Consultancy Services (TCS) - <http://www.tcs.com> (10 Months)**  
+ 3. **Company: Tata Consultancy Services (TCS) - <http://www.tcs.com> (10 Months)**  
     Tata Consultancy Services Limited (TCSL) is a multinational information technology (IT) service, consulting and business solutions company headquartered in India.
 
     **Assistant Systems Engineer - Trainee (July 2011 – April 2012):**  
@@ -28,15 +34,33 @@
 ## Technical Skills:
 
   * Programming Languages: C, Python, Java, Shell Programming (bash)
-  * Operating Systems: OS X (Mac), Red Hat Enterprise Linux, Debian, Fedora, Ubuntu, Puppy Linux, Windows
-  * Linux System Administration: RHEL 5, CentOS 5, Debian 6
+  * Operating Systems: OS X (Mac), Linux (Debian, Ubuntu, CentOS) & Windows
+  * Linux System Administration, Docker
+  * Configuration management: Ansible
   * Cloud computing: Amazon Web Services (AWS EC2, S3, Route53), Rackspace
   * Monitoring: Shinken, Nagios NRPE
   * Telephony: Session Initiation Protocol (SIP)
+  * Web framework: Python Flask
 
 ## Projects:
 
-  * **Dikhao - Hobby Project (February 2014 to Present):**  
+  * **Konfilarity (July 2014 – present):**  
+    Started konfilarity as an internal project of knowlarity for configuration management. It helped improve release processes, server deployments, security, DNS management and is still an evolving project.
+
+  * **SethJi (December 2014 – present):**  
+    A python flask application to generate AWS billing reports based on tags.  
+    Project Link: https://github.com/rohit01/sethji
+
+  * **Docker Shinken (December 2014):**  
+    Automated build repository for 'shinken', 'shinken_thruk' and 'shinken_thruk_graphite' docker registry images.  
+    Project Link: https://github.com/rohit01/docker_shinken  
+    Related blog post: http://www.rohit.io/blog/rip-nagios-hello-docker-shinken.html
+
+  * **Zero Users (August 2014 – September 2014):**  
+    Zero hassle native linux user management. Built with ♥ and Ansible.  
+    Project Link: https://github.com/rohit01/zero-users
+
+  * **Dikhao (February 2014 – July 2014):**  
     Dikhao is an opensource project to cache every EC2, Route53 resource, find relations between them, and provide really fast lookups. It can be installed as a python command line utility (pip install dikhao), deployed in heroku and has a ready to use hubot plugin.  
     Project Link: <https://github.com/rohit01/dikhao>
 
@@ -52,17 +76,17 @@
   * **Plivo Statusboard (May 2012 – September 2013):**  
     Worked on the backend of the Plivo statusboard. The project involved implementing a 24X7 automated monitoring of Plivo HTTP APIs like calls, Conference, SMS and account related APIs.
 
-  * **Android Sudoku Solver - Hobby Project (January 2012 to April 2012):**  
+  * **Android Sudoku Solver (January 2012 – April 2012):**  
     An Android application to solve sudoku puzzles of all difficulty levels (including diabolical). The algorithm used to solve the same was developed personally.  
     Project Link: <https://github.com/rohit01/AndroidSudokuSolver>
 
-  * **TCS BαNCS Service Integrator (October 2011 to April 2012):**  
+  * **TCS BαNCS Service Integrator (October 2011 – April 2012):**  
     Service Integrator (SI) is a simple and flexible solution that integrates systems with minimal changes for existing applications, supports technologies – old and new and financial messaging standards. The application makes use of Java, ANT, Unix shell scripts, XML, DB (SQL), Hudson framework
 
-  * **National Self Employment Program - NSEP (July 2011 to September 2011):**  
+  * **National Self Employment Program - NSEP (July 2011 – September 2011):**  
     Developed the NSEP Account Management module of NSEP project. NSEP was a prototype project for the Government of India to encourage entrepreneurship among young graduates.
 
-  * **StegoSoft (July 2010 to June 2011):**  
+  * **StegoSoft (July 2010 – June 2011):**  
     Developed a steganography application using enhanced least significant bit (LSB) algorithm. It can be used to hide information in an audio medium without any apparent change in the size or quality of the audio file.  
     Project Link: <https://github.com/rohit01/stegosoft>
 
@@ -102,4 +126,4 @@
     Institution: Assembly of God Church School  
 
 
-*last updated: May 18, 2014*
+*last updated: February, 2015*
