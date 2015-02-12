@@ -1,7 +1,7 @@
 # Rohit Gupta
 
   * rohit.kgec [AT] gmail.com
-  * Blog: <http://rohit.io>
+  * Blog: <http://www.rohit.io>
   * Github: <https://github.com/rohit01>
   * LinkedIn: <http://www.linkedin.com/in/rohit01>
 
