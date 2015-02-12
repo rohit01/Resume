@@ -49,16 +49,16 @@
 
   * **SethJi (December 2014 – present):**  
     A python flask application to generate AWS billing reports based on tags.  
-    Project Link: https://github.com/rohit01/sethji
+    Project Link: <https://github.com/rohit01/sethji>
 
   * **Docker Shinken (December 2014):**  
-    Automated build repository for 'shinken', 'shinken_thruk' and 'shinken_thruk_graphite' docker registry images.  
-    Project Link: https://github.com/rohit01/docker_shinken  
-    Related blog post: http://www.rohit.io/blog/rip-nagios-hello-docker-shinken.html
+    Automated build repository for 'shinken', 'shinken\_thruk' and 'shinken\_thruk\_graphite' docker registry images.  
+    Project Link: <https://github.com/rohit01/docker_shinken>  
+    Related blog post: <http://www.rohit.io/blog/rip-nagios-hello-docker-shinken.html>
 
   * **Zero Users (August 2014 – September 2014):**  
     Zero hassle native linux user management. Built with ♥ and Ansible.  
-    Project Link: https://github.com/rohit01/zero-users
+    Project Link: <https://github.com/rohit01/zero-users>
 
   * **Dikhao (February 2014 – July 2014):**  
     Dikhao is an opensource project to cache every EC2, Route53 resource, find relations between them, and provide really fast lookups. It can be installed as a python command line utility (pip install dikhao), deployed in heroku and has a ready to use hubot plugin.  
