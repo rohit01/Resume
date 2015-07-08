@@ -129,4 +129,4 @@
     Institution: Assembly of God Church School  
 
 
-*last updated: July, 2015*
+*last update: July, 2015*
