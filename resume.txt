@@ -11,7 +11,7 @@
     Knowlarity is India’s largest cloud telephony company backed by investors like Sequoia Capital and Mayfield.
 
     **Technical Lead - Devops (June 2014 – present):**  
-    Leading a team of developers to write infrastructure as a code. Kick-started many automation projects, replaced legacy monitoring systems, improved processes and helped build the team.
+    Leading a team of nine developers to write infrastructure as a code. Kick-started many automation projects, replaced legacy monitoring systems, helped improved processes, application architecture and build the team.
 
  2. **Company: Plivo - <https://www.plivo.com> (1 year, 11 months)**  
     Plivo is a silicon valley (US) based telephony startup backed by Y-Combinator (YC) and investors like Andressssen Horowitz, Battery ventures and Qualcomm.
@@ -46,6 +46,9 @@
 
   * **Konfilarity (July 2014 – present):**  
     Started konfilarity as an internal project of knowlarity for configuration management. It helped improve release processes, server deployments, security, DNS management and is still an evolving project.
+
+  * **Shinken (July 2014 – present):**  
+    Replaced legacy monitoring system - Nagios with Shinken. Introduced new paradigms like, Multi DC deployment, unified agent configuration, end to end automation, frequent and easy releases, ease of adding new features plus hosts.
 
   * **SethJi (December 2014 – present):**  
     A python flask application to generate AWS billing reports based on tags.  
@@ -126,4 +129,4 @@
     Institution: Assembly of God Church School  
 
 
-*last updated: February, 2015*
+*last updated: July, 2015*
