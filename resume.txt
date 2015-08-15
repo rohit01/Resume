@@ -128,5 +128,13 @@
   * ICSE - X (2004-2005)  
     Institution: Assembly of God Church School  
 
+## Recommendations:
 
-*last update: July, 2015*
+  * Michael Ricordeau - Co-Founder, Plivo (YC S2012):  
+    He is the co-founder of Plivo and I have worked closely with him during my tenure at Plivo.  
+    Rohit is passionate by his work . He has a very good knowledge of cloud technology and can solve all sort of hard problems (failover, scalability, monitoring, load balancing) for any Saas/Paas infrastructure.  
+
+  * Vimal Gupta - Senior Director, Knowlarity Communications:  
+    Rohit, A highly motivated DevOps professional who has excellent technical skills and a can do attitude. He love to solve the Critical DevOps problems and always ready to learn. He understand the business needs as well and this enables him to align his tasks with business goals. He is also a very good mentor, a very good team player as well as a lead. I wish him a very bright career ahead.  
+
+*last update: August, 2015*
