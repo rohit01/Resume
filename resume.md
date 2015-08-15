@@ -131,7 +131,6 @@
 ## Recommendations:
 
   * **Michael Ricordeau - Co-Founder, Plivo (YC S2012):**  
-    He is the co-founder of Plivo and I have worked closely with him during my tenure at Plivo.  
     Rohit is passionate by his work . He has a very good knowledge of cloud technology and can solve all sort of hard problems (failover, scalability, monitoring, load balancing) for any Saas/Paas infrastructure.  
 
   * **Vimal Gupta - Senior Director, Knowlarity Communications:**  
