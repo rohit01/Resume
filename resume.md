@@ -128,5 +128,12 @@
   * ICSE - X (2004-2005)  
     Institution: Assembly of God Church School  
 
+## References:
+
+  * Michael Ricordeau:  
+    He is the co-founder of Plivo and I have worked closely with him during my tenure at Plivo.  
+
+  * Vimal Gupta:  
+    He was a Senior Director (Devops) at Knowlarity Communications. I have worked closely with him at Knowlarirty as a Technical lead.  
 
 *last update: July, 2015*
