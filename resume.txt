@@ -56,7 +56,7 @@
 
   * **Graylog - Centralized logging platform (April 2016 – present):**  
     With a vision to support micro-services at scale, dozens of transparent releases a day, we built a centralized logging platform using open-source tools like Fluentd, Heka, Kafka, Graylog and Elasticsearch. It is a truly scalable system which handles 500k+ messages per sec, billion+ messages per hour and 100TB+ queriable log at any given point of time.  
-    FossAsia talk: <https://youtu.be/ZkRPj34UWfs>
+    FOSS Asia 2017 Talk: <https://youtu.be/ZkRPj34UWfs>
 
   * **Centralized monitoring - Prometheus & OpenTSDB (February 2016 – present):**  
     Did setup, automation and designed a custom alert routing logic for monitoring critical systems and applications. Prometheus supports both static and dynamic (service discovery based) targets for pulling metrics. Push mode for metrics is supported by OpenTSDB. Documentation is auto-generated in confluence which serves as runbook for OnCall.
