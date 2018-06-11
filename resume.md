@@ -1,9 +1,9 @@
 # Rohit Gupta
 
   * hello [AT] rohit.io
-  * Blog: <http://www.rohit.io>
+  * Blog: <https://www.rohit.io>
   * Github: <https://github.com/rohit01>
-  * LinkedIn: <http://www.linkedin.com/in/rohit01>
+  * LinkedIn: <https://www.linkedin.com/in/rohit01>
   * Docker Hub: <https://hub.docker.com/r/rohit01>
 
 ## Experience Summary:
@@ -11,8 +11,14 @@
  1. **Company: ANI Technologies (aka OlaCabs) - <https://www.olacabs.com> (January 2016 - present)**  
     Ola is the most popular cab booking service in India. It has a presence in over 100 cities and caters to million+ bookings per day.
 
-    **Production Engineer II (January 2016 - present):**  
-    Working as an individual contributor towards building a highly scalable and reliable microservices-based infrastructure platform. Some of the projects I own include the centralized logging platform (Graylog), metrics platform (Prometheus, OpenTSDB) and cluster management (Mesos/Marathon).
+    **Principal Engineer - PE IV (April 2018 - present):**  
+    Enhancing and adding features on project blacklight (described below). Working on long-term stability of infrastructure at scale and mentoring fellow teammates.
+
+    **Tech Lead - PE III (April 2017 - March 2018):**  
+    Started project Blacklight to solve centralized logging at scale and save AWS resource/cost. We scaled the centralized logging platform to handle 10 million+ log messages per second with high availability, auto-scalability and reliability. Built a metric platform at scale with a self-serve facility with Prometheus 2.x. Multiple clusters manage millions of metrics being scraped every minute.
+
+    **Production Engineer - PE II (January 2016 - March 2017):**  
+    Worked as an individual contributor towards building a highly scalable and reliable microservices-based infrastructure platform. Some of the projects I worked on include the centralized logging platform (Graylog), metrics platform (Prometheus, OpenTSDB) and cluster management (Mesos/Marathon).
 
  2. **Company: Knowlarity - <http://www.knowlarity.com> (1 year, 6 months)**  
     Knowlarity is India’s largest cloud telephony company backed by investors like Sequoia Capital and Mayfield.
@@ -54,11 +60,17 @@
 
 ## Projects:
 
+  * **Blacklight - Lightweight log shipper, built for scale (April 2017 – present):**  
+    Started project Blacklight to scale the logging platform after hitting the limitations of available open-source solutions. Took responsibility for everything from design & coding phase to deployment & maintenance of the project in production. It is an in-house tool written from scratch in golang. It processes hundreds of terabytes of data per day, creates several million log archive files per day, serves peak loads of 10+ million msg per sec, replaced project bloody-mary (described below), is auto-scalable and helped bring down AWS cost by hundreds of thousand USD per month.
+
+  * **Prometheus 2.x self serve clusters (November 2017 – present):**  
+    Solved scalability problems on existing metric platform with Prometheus 2.x. Designed clusters with high availability, reliability and easy sharding of metrics per cluster. Added capability for easy config changes by users (self-serve) with config validation, alerts on human error and instantly automated deployments. Result - better dashboards, alerts, productivity and sleep time.
+
   * **Graylog - Centralized logging platform (April 2016 – present):**  
     With a vision to support micro-services at scale, dozens of transparent releases a day, we built a centralized logging platform using open-source tools like Fluentd, Heka, Kafka, Graylog and Elasticsearch. It is a truly scalable system which handles 500k+ messages per sec, billion+ messages per hour and 100TB+ queriable log at any given point of time.  
     FOSS Asia 2017 Talk: <https://youtu.be/ZkRPj34UWfs>
 
-  * **Centralized monitoring - Prometheus & OpenTSDB (February 2016 – present):**  
+  * **Centralized monitoring - Prometheus & OpenTSDB (February 2016 – November 2017):**  
     Did setup, automation and designed a custom alert routing logic for monitoring critical systems and applications. Prometheus supports both static and dynamic (service discovery based) targets for pulling metrics. Push mode for metrics is supported by OpenTSDB. Documentation is auto-generated in confluence which serves as runbook for OnCall.
 
   * **Mesos/Marathon/Chronos cluster (February 2016 – November 2016):**  
@@ -153,4 +165,4 @@
   * **Vimal Gupta - Senior Director, Knowlarity Communications:**  
     Rohit, A highly motivated DevOps professional who has excellent technical skills and a can do attitude. He love to solve the Critical DevOps problems and always ready to learn. He understand the business needs as well and this enables him to align his tasks with business goals. He is also a very good mentor, a very good team player as well as a lead. I wish him a very bright career ahead.  
 
-*last update: April, 2017*
+*last update: June, 2018*
