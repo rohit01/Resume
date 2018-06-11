@@ -39,9 +39,9 @@
 
 <ul>
 <li>hello [AT] rohit.io</li>
-<li>Blog: <a href="http://www.rohit.io">http://www.rohit.io</a></li>
+<li>Blog: <a href="https://www.rohit.io">https://www.rohit.io</a></li>
 <li>Github: <a href="https://github.com/rohit01">https://github.com/rohit01</a></li>
-<li>LinkedIn: <a href="http://www.linkedin.com/in/rohit01">http://www.linkedin.com/in/rohit01</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/rohit01">https://www.linkedin.com/in/rohit01</a></li>
 <li>Docker Hub: <a href="https://hub.docker.com/r/rohit01">https://hub.docker.com/r/rohit01</a></li>
 </ul>
 
@@ -51,8 +51,14 @@
 <li><p><strong>Company: ANI Technologies (aka OlaCabs) - <a href="https://www.olacabs.com">https://www.olacabs.com</a> (January 2016 - present)</strong><br>
 Ola is the most popular cab booking service in India. It has a presence in over 100 cities and caters to million+ bookings per day.</p>
 
-<p><strong>Production Engineer II (January 2016 - present):</strong><br>
-Working as an individual contributor towards building a highly scalable and reliable microservices-based infrastructure platform. Some of the projects I own include the centralized logging platform (Graylog), metrics platform (Prometheus, OpenTSDB) and cluster management (Mesos/Marathon).</p></li>
+<p><strong>Principal Engineer - PE IV (April 2018 - present):</strong><br>
+Enhancing and adding features on project blacklight (described below). Working on long-term stability of infrastructure at scale and mentoring fellow teammates.</p>
+
+<p><strong>Tech Lead - PE III (April 2017 - March 2018):</strong><br>
+Started project Blacklight to solve centralized logging at scale and save AWS resource/cost. We scaled the centralized logging platform to handle 10 million+ log messages per second with high availability, auto-scalability and reliability. Built a metric platform at scale with a self-serve facility with Prometheus 2.x. Multiple clusters manage millions of metrics being scraped every minute.</p>
+
+<p><strong>Production Engineer - PE II (January 2016 - March 2017):</strong><br>
+Worked as an individual contributor towards building a highly scalable and reliable microservices-based infrastructure platform. Some of the projects I worked on include the centralized logging platform (Graylog), metrics platform (Prometheus, OpenTSDB) and cluster management (Mesos/Marathon).</p></li>
 <li><p><strong>Company: Knowlarity - <a href="http://www.knowlarity.com">http://www.knowlarity.com</a> (1 year, 6 months)</strong><br>
 Knowlarity is India’s largest cloud telephony company backed by investors like Sequoia Capital and Mayfield.</p>
 
@@ -97,10 +103,14 @@ Started my career with Initial Learning Program (ILP) Training at TCS. Lead a ba
 <h2>Projects:</h2>
 
 <ul>
+<li><p><strong>Blacklight - Lightweight log shipper, built for scale (April 2017 – present):</strong><br>
+Started project Blacklight to scale the logging platform after hitting the limitations of available open-source solutions. Took responsibility for everything from design &amp; coding phase to deployment &amp; maintenance of the project in production. It is an in-house tool written from scratch in golang. It processes hundreds of terabytes of data per day, creates several million log archive files per day, serves peak loads of 10+ million msg per sec, replaced project bloody-mary (described below), is auto-scalable and helped bring down AWS cost by hundreds of thousand USD per month.</p></li>
+<li><p><strong>Prometheus 2.x self serve clusters (November 2017 – present):</strong><br>
+Solved scalability problems on existing metric platform with Prometheus 2.x. Designed clusters with high availability, reliability and easy sharding of metrics per cluster. Added capability for easy config changes by users (self-serve) with config validation, alerts on human error and instantly automated deployments. Result - better dashboards, alerts, productivity and sleep time.</p></li>
 <li><p><strong>Graylog - Centralized logging platform (April 2016 – present):</strong><br>
 With a vision to support micro-services at scale, dozens of transparent releases a day, we built a centralized logging platform using open-source tools like Fluentd, Heka, Kafka, Graylog and Elasticsearch. It is a truly scalable system which handles 500k+ messages per sec, billion+ messages per hour and 100TB+ queriable log at any given point of time.<br>
 FOSS Asia 2017 Talk: <a href="https://youtu.be/ZkRPj34UWfs">https://youtu.be/ZkRPj34UWfs</a></p></li>
-<li><p><strong>Centralized monitoring - Prometheus &amp; OpenTSDB (February 2016 – present):</strong><br>
+<li><p><strong>Centralized monitoring - Prometheus &amp; OpenTSDB (February 2016 – November 2017):</strong><br>
 Did setup, automation and designed a custom alert routing logic for monitoring critical systems and applications. Prometheus supports both static and dynamic (service discovery based) targets for pulling metrics. Push mode for metrics is supported by OpenTSDB. Documentation is auto-generated in confluence which serves as runbook for OnCall.</p></li>
 <li><p><strong>Mesos/Marathon/Chronos cluster (February 2016 – November 2016):</strong><br>
 Involved in setup, automation and design of the Mesos/Marathon/Chronos cluster for production-grade container orchestration. This serves as the backbone for powering most micro-services at Ola.</p></li>
@@ -184,7 +194,7 @@ Rohit is passionate by his work. He has a very good knowledge of cloud technolog
 Rohit, A highly motivated DevOps professional who has excellent technical skills and a can do attitude. He love to solve the Critical DevOps problems and always ready to learn. He understand the business needs as well and this enables him to align his tasks with business goals. He is also a very good mentor, a very good team player as well as a lead. I wish him a very bright career ahead.  </p></li>
 </ul>
 
-<p><em>last update: April, 2017</em></p>
+<p><em>last update: June, 2018</em></p>
 
 
       <small class="download">Download as <a href="resume.txt">plain text</a>.</small>
