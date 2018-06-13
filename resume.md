@@ -15,10 +15,10 @@
     Enhancing and adding features on project blacklight (described below). Working on long-term stability of infrastructure at scale and mentoring fellow teammates.
 
     **Tech Lead - PE III (April 2017 - March 2018):**  
-    Started project Blacklight to solve centralized logging at scale and save AWS resource/cost. We scaled the centralized logging platform to handle 10 million+ log messages per second with high availability, auto-scalability and reliability. Built a metric platform at scale with a self-serve facility with Prometheus 2.x. Multiple clusters manage millions of metrics being scraped every minute.
+    Started project Blacklight to solve centralized logging at scale and save AWS resource/cost. Scaled the centralized logging platform to handle 10 million+ log messages per second with high availability, auto-scalability and reliability. Built a metric platform at scale with a self-serve facility using Prometheus 2.x. Multiple clusters manage millions of metrics being scraped every minute.
 
     **Production Engineer - PE II (January 2016 - March 2017):**  
-    Worked as an individual contributor towards building a highly scalable and reliable microservices-based infrastructure platform. Some of the projects I worked on include the centralized logging platform (Graylog), metrics platform (Prometheus, OpenTSDB) and cluster management (Mesos/Marathon).
+    Worked as an individual contributor towards building a highly scalable and reliable micro service based infrastructure platform. Some of the projects I worked on include the centralized logging platform (Graylog), metrics platform (Prometheus, OpenTSDB) and cluster management (Mesos/Marathon).
 
  2. **Company: Knowlarity - <http://www.knowlarity.com> (1 year, 6 months)**  
     Knowlarity is India’s largest cloud telephony company backed by investors like Sequoia Capital and Mayfield.
@@ -47,7 +47,7 @@
 ## Technical Skills:
 
   * Programming Languages:
-      * Present proficiency: golang, Python, Ruby, Shell scripting (bash)
+      * Present proficiency: Go, Python, Shell scripting (bash)
       * Past proficiency: C, Java, Lua
   * Operating Systems: OS X (Mac), Linux (Debian, Ubuntu, CentOS)
   * Configuration management: Ansible, Chef
@@ -61,13 +61,16 @@
 ## Projects:
 
   * **Blacklight - Lightweight log shipper, built for scale (April 2017 – present):**  
-    Started project Blacklight to scale the logging platform after hitting the limitations of available open-source solutions. Took responsibility for everything from design & coding phase to deployment & maintenance of the project in production. It is an in-house tool written from scratch in golang. It processes hundreds of terabytes of data per day, creates several million log archive files per day, serves peak loads of 10+ million msg per sec, replaced project bloody-mary (described below), is auto-scalable and helped bring down AWS cost by hundreds of thousand USD per month.
+    Started project Blacklight to scale the logging platform after hitting the limitations of available open-source solutions. Took responsibility for everything from design & coding phase to deployment & maintenance of the project in production. It is an in-house tool written from scratch in golang. It processes hundreds of terabytes of data per day, creates several million log archive files per day, serves peak loads of 10+ million messages per sec, replaced project bloody-mary (described below), is auto-scalable and helped bring down AWS cost by hundreds of thousand USD per month.
 
-  * **Prometheus 2.x self serve clusters (November 2017 – present):**  
-    Solved scalability problems on existing metric platform with Prometheus 2.x. Designed clusters with high availability, reliability and easy sharding of metrics per cluster. Added capability for easy config changes by users (self-serve) with config validation, alerts on human error and instantly automated deployments. Result - better dashboards, alerts, productivity and sleep time.
+  * **Prometheus 2.x self serve monitoring clusters (November 2017 – present):**  
+    Solved scalability problems on existing metric platform with Prometheus 2.x. Contributed to prometheus code with bug fixes discovered on our platform. Designed clusters with high availability, reliability and easy sharding of metrics per cluster. Added capability for easy config changes by users (self-serve) with config validation, alerts on human error and instantly automated deployments. Result - better dashboards, alerts, productivity and sleep time.
+
+  * **Chitragupt – monitoring service discovery failures (May 2018 – present):**  
+    Chitragupt is a python project written from scratch to better visualize and solve service discovery failures of marathon-lb. It is designed to be cloud provider agnostic, multiple account/region support, detects custom settings, has historical failure records and prometheus metrics for alerting and visualization using Grafana.
 
   * **Graylog - Centralized logging platform (April 2016 – present):**  
-    With a vision to support micro-services at scale, dozens of transparent releases a day, we built a centralized logging platform using open-source tools like Fluentd, Heka, Kafka, Graylog and Elasticsearch. It is a truly scalable system which handles 500k+ messages per sec, billion+ messages per hour and 100TB+ queriable log at any given point of time.  
+    With a vision to support micro-services at scale, dozens of transparent releases a day, we built a centralized logging platform using open-source tools like Fluentd, Heka, Kafka, Graylog and Elasticsearch. It is a truly scalable system which handles millions of messages per sec, billion+ messages per hour and 100TB+ queriable log at any given point of time.  
     FOSS Asia 2017 Talk: <https://youtu.be/ZkRPj34UWfs>
 
   * **Centralized monitoring - Prometheus & OpenTSDB (February 2016 – November 2017):**  
